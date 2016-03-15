@@ -53,8 +53,8 @@ This script allows you to add users to a Cisco Spark room using a spreadsheet.
 
 
 # Other Info
--After the script runs it will show the users that could not be added and the _number_ of succesfully added users.
-
+- After the script runs it will show the users that could not be added and the _number_ of succesfully added users.
+- This script uses your _personal_ access token, so it runs "as you". The personal access token may change, and could therefore break this code.
 
 
 ---------------------
