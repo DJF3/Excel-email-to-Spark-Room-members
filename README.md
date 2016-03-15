@@ -60,6 +60,8 @@ This script allows you to add users to a [Cisco Spark](https://www.ciscospark.co
 - After the script runs it will show the users that could not be added and the _number_ of succesfully added users.
 - This script uses your _personal_ access token, so it runs "as you". The personal access token may change, and could therefore break this code.
 - Users will be added as normal users, not room moderators. You can assign room moderators manually
+- Spark Developer documentation:  [here](https://developer.ciscospark.com/resource-rooms.html) 
 - "Failed users" could have several reasons (for example: already member of that room)
-- Spark Developer documentation:  [here](https://developer.ciscospark.com/resource-rooms.html)
+
+
 ---------------------
