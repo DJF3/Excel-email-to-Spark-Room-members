@@ -1,5 +1,7 @@
 # xl2csprkrm
-![]({{site.baseurl}}/https://github.com/DJF3/xl2csprkrm/blob/master/images/excel-to-spark-logo-small.jpg)
+![xls2sparklogo](https://github.com/DJF3/xl2csprkrm/blob/master/images/excel-to-spark-logo-small.jpg)
+
+
 This script allows you to add users to a Cisco Spark room using a spreadsheet.
 
 
