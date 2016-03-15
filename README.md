@@ -2,10 +2,11 @@
 ![xls2sparklogo](https://github.com/DJF3/xl2csprkrm/blob/master/images/excel-to-spark-logo-small.jpg)
 
 
-This script allows you to add users to a Cisco Spark room using a spreadsheet.
+This script allows you to add users to a [Cisco Spark](https://www.ciscospark.com) room using a spreadsheet.
 
 
 # Requirements
+- **[Cisco Spark](https://www.ciscospark.com)** account (free) 
 - **json** (JSON, standard in Python)
 - **re** (RegEx, standard in Python)
 - **requests** - Go to the [Requests Installation](http://docs.python-requests.org/en/master/user/install/) page and follow the instructions
