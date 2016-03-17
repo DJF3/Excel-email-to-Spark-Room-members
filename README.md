@@ -18,7 +18,7 @@ This script allows you to add users to a [Cisco Spark](https://www.ciscospark.co
 
 
 # Files
-- **test.py** - the code
+- **pyxlstospark.py** - the code
 - **attendees.xlsx** - sample spreadsheet
 
 
